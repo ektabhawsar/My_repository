@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\ekta\\MobileCenterExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right.xml",
+        "source": "F:\\ekta\\MobileCenterExample\\app\\src\\main\\res\\layout\\right.xml"
+    },
+    {
+        "merged": "F:\\ekta\\MobileCenterExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left.xml",
+        "source": "F:\\ekta\\MobileCenterExample\\app\\src\\main\\res\\layout\\left.xml"
+    },
+    {
+        "merged": "F:\\ekta\\MobileCenterExample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ekta\\MobileCenterExample\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
